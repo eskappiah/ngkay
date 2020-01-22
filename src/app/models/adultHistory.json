@@ -1,0 +1,18 @@
+{
+  "id": "string",
+  "excessiveNoise": true,
+  "excessiveNoiseExplained": true,
+  "ringingEars": true,
+  "ringingEarsExplanation": "string",
+  "dizziness": true,
+  "dizzinessExplanation": "string",
+  "patientId": "string",
+  "staffId": "string",
+  "caseId": "string",
+  "createdBy": "string",
+  "updatedBy": "string",
+  "deletedBy": "string",
+  "createdAt": "2020-01-22T09:36:55.232Z",
+  "updatedAt": "2020-01-22T09:36:55.232Z",
+  "deletedAt": "2020-01-22T09:36:55.232Z"
+}

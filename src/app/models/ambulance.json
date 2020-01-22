@@ -1,0 +1,12 @@
+{
+  "ambulanceId": "string",
+  "registrationNumber": "string",
+  "status": true,
+  "createdBy": "string",
+  "updatedBy": "string",
+  "deletedBy": "string",
+  "createdAt": "2020-01-22T09:36:55.284Z",
+  "updatedAt": "2020-01-22T09:36:55.284Z",
+  "deletedAt": "2020-01-22T09:36:55.284Z",
+  "id": 0
+}
